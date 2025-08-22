@@ -1,6 +1,4 @@
-<img width="1037" height="707" alt="изображение" src="https://github.com/user-attachments/assets/8d342369-d0c6-4618-9c43-f3ead9781e5f" /><img width="1037" height="707" alt="изображение" src="https://github.com/user-attachments/assets/10bca6eb-725a-4b50-b4cf-39eb75a4176f" /># Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
-пупупу
-второй пупупу
+
 
 ### Инструкция по выполнению домашнего задания
 
