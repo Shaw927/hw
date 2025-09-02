@@ -33,7 +33,7 @@
 <img width="681" height="667" alt="изображение" src="https://github.com/user-attachments/assets/b0ba646a-a5c2-4d49-96ac-ba73ebd6433a" />
 <img width="679" height="633" alt="изображение" src="https://github.com/user-attachments/assets/c0306520-657d-4ad5-b445-7c9ec76e0591" />
 
-
+pkt лежит в репе
 Задание 2
 
 
