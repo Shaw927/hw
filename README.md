@@ -23,6 +23,7 @@
     Необходимо исключить из синхронизации все директории, начинающиеся с точки (скрытые)
     Необходимо сделать так, чтобы rsync подсчитывал хэш-суммы для всех файлов, даже если их время модификации и размер идентичны в источнике и приемнике.
     На проверку направить скриншот с командой и результатом ее выполнения
+
 <img width="676" height="359" alt="изображение" src="https://github.com/user-attachments/assets/a89d0729-f7c4-4bcc-a379-bc325fc1ca8b" />
 
 Задание 2
@@ -33,5 +34,6 @@
     Резервная копия размещается локально, в директории /tmp/backup
     На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
- 
-<img width="676" height="359" alt="изображение" src="https://github.com/user-attachments/assets/a89d0729-f7c4-4bcc-a379-bc325fc1ca8b" />
+<img width="647" height="498" alt="изображение" src="https://github.com/user-attachments/assets/17dcfe40-ebbf-424d-b99f-52af29f053cf" />
+
+<img width="592" height="399" alt="изображение" src="https://github.com/user-attachments/assets/3e5f8d9a-8108-45ca-9153-e10a99cc9545" />
